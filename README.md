@@ -1,7 +1,5 @@
 # Reactjs_Router
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Dashboard
 <img width="960" alt="Screenshot (489)" src="https://user-images.githubusercontent.com/68727623/155260277-4f30154d-2741-4f8f-9e02-ec3611ea36ec.png">
 ## Kelas
