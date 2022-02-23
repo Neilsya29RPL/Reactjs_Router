@@ -12,6 +12,7 @@
 ## Siswa
 <img width="959" alt="Screenshot (492)" src="https://user-images.githubusercontent.com/68727623/155260315-e9ae6377-3248-491f-b776-8db5596cee5b.png">
 
+## Spp
 <img width="959" alt="Screenshot (493)" src="https://user-images.githubusercontent.com/68727623/155260316-983d2b63-50f4-4132-8add-f959c8df3b91.png">
 
 <img width="959" alt="Screenshot (494)" src="https://user-images.githubusercontent.com/68727623/155260319-7d252a9b-9cb5-4c04-8cda-566232042f6d.png">
