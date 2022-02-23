@@ -3,7 +3,7 @@
 ## Dashboard
 <img width="960" alt="Screenshot (489)" src="https://user-images.githubusercontent.com/68727623/155260277-4f30154d-2741-4f8f-9e02-ec3611ea36ec.png">
 
-<img width="960" alt="Screenshot (490)" src="https://user-images.githubusercontent.com/68727623/155260308-e8a60726-a27e-4eb0-9e44-f53e39d77eb7.png">
+<img width="958" alt="Screenshot (497)" src="https://user-images.githubusercontent.com/68727623/155261078-b6a55ebf-acc3-4109-aa2a-3c38c1ae088b.png">
 
 <img width="959" alt="Screenshot (491)" src="https://user-images.githubusercontent.com/68727623/155260310-afddd9be-5f02-45f3-b459-54ca18f4f78b.png">
 
