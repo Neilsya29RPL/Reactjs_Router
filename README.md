@@ -6,6 +6,7 @@
 ## Kelas
 <img width="958" alt="Screenshot (497)" src="https://user-images.githubusercontent.com/68727623/155261078-b6a55ebf-acc3-4109-aa2a-3c38c1ae088b.png">
 
+## Petugas
 <img width="959" alt="Screenshot (491)" src="https://user-images.githubusercontent.com/68727623/155260310-afddd9be-5f02-45f3-b459-54ca18f4f78b.png">
 
 <img width="959" alt="Screenshot (492)" src="https://user-images.githubusercontent.com/68727623/155260315-e9ae6377-3248-491f-b776-8db5596cee5b.png">
